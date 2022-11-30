@@ -20,10 +20,7 @@
 <br> <br>
 📲 Mobile <br>
 
-![Screenshot 2022-11-30 at 13-54-20 TodoApp Tzzent](https://user-images.githubusercontent.com/86677547/204884439-4c6f046b-2761-4737-b26d-c91f77fbcca8.png)
-
-
-
+![Screenshot 2022-11-30 at 13-57-09 TodoApp Tzzent](https://user-images.githubusercontent.com/86677547/204884791-9a67abd3-feec-4837-ae29-777757c5e8f7.png)
 
 ### Built With
 
