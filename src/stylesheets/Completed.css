@@ -1,0 +1,20 @@
+.btn-clearAll {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-clearAll button {
+    margin-top: 20px;
+    border: none;
+    background: #EB5757;
+    border-radius: 12px;
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.btn-clearAll button:hover {
+    background-color: purple;
+}

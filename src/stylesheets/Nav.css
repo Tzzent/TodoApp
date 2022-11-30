@@ -1,0 +1,32 @@
+.nav {
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.nav button {
+    color: #333333;
+    width: 89px;
+    padding: 15px 0px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    position: relative;
+}
+
+.nav .active::after {
+    content: '';
+    position: absolute;
+    width: 89px;
+    height: 4px;
+    border-radius: 4px 4px 0px 0px;
+    background: #2F80ED;
+    bottom: -1px;
+    left: 0;
+    z-index: 100;
+}
